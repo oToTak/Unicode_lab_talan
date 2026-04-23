@@ -1,0 +1,3 @@
+/Users/teodor/Unicode_lab_talan/build/CMakeFiles/unicode_tool.dir
+/Users/teodor/Unicode_lab_talan/build/CMakeFiles/edit_cache.dir
+/Users/teodor/Unicode_lab_talan/build/CMakeFiles/rebuild_cache.dir
