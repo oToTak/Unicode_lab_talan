@@ -1,3 +1,0 @@
-/Users/teodor/uni_delete/build/CMakeFiles/unicode_tool.dir
-/Users/teodor/uni_delete/build/CMakeFiles/edit_cache.dir
-/Users/teodor/uni_delete/build/CMakeFiles/rebuild_cache.dir
